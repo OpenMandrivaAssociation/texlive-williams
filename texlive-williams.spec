@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-williams
 Version:	20090130
-Release:	2
+Release:	3
 Summary:	Miscellaneous macros by Peter Williams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/williams
